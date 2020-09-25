@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/studiolife/outlaw-ableton-11/issues"
   },
-  "homepage": "https://github.com/studiolife/outlaw-ableton-11#readme"
+  "homepage": "https://github.com/studiolife/outlaw-ableton-11#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3",
+    "winston": "^3.3.3"
+  }
 }
