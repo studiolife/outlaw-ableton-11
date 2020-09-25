@@ -1,0 +1,22 @@
+{
+  "name": "outlaw-ableton-11",
+  "version": "1.0.0",
+  "description": "ableton 10.x remote control (outlaw)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiolife/outlaw-ableton-11.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Tracey Ledbetter",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/studiolife/outlaw-ableton-11/issues"
+  },
+  "homepage": "https://github.com/studiolife/outlaw-ableton-11#readme"
+}
